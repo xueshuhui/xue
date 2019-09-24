@@ -1,0 +1,4 @@
+dist/
+gulpfile_copy_clean.js
+node_modules/
+package-lock.json
