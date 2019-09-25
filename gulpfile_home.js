@@ -62,8 +62,5 @@ gulp.task("less",function(done){
 
     done();
 })
-<<<<<<< HEAD
-<div>hello,this is bugs</div>
-=======
-<div></div>
->>>>>>> new_feature
+
+hello 
